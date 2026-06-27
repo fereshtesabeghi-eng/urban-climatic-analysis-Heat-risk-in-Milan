@@ -43,4 +43,5 @@ The research produced high-resolution spatial snapshots of thermal stress and ri
 
 ![UTCI Map Milano](utci_map_milano_2012.jpg)
 
-* **Methodological Contribution**: The study demonstrates that relying on Land Surface Temperature (LST) is insufficient for urban health assessment. Instead, we advocate for composite indices that integrate biometeorological factors like air temperature, relative humidity, and solar radiation, which more accurately reflect human thermal discomfort in dense urban environments.
+* **Methodological Contribution**: The study demonstrates that relying on Land Surface Temperature (LST) is insufficient for urban health assessment. Instead, we advocate for composite indices that integrate biometeorological factors like air temperature, relative humidity, and solar radiation, which more accurately reflect human thermal discomfort in dense urban environments. the last decided format to showcase the project is a storymap : https://storymaps.arcgis.com/stories/76efbf837a7c44aba997a9b90c92551c#ref-
+
